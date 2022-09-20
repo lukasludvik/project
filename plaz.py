@@ -12,7 +12,7 @@ sand = []
 
 area = int(input()) #5
 
-#9Making quicksand
+#Making quicksand
 while True:
     x, y = [int(x) for x in input().split() if input()]
     start.append(x)
